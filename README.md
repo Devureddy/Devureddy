@@ -1,7 +1,7 @@
-[README-3.md](https://github.com/user-attachments/files/30074342/README-3.md)
+[README-4.md](https://github.com/user-attachments/files/30074364/README-4.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,50:1B4B7A,100:61DAFB&height=200&section=header&text=Hi%20👋,%20I'm%20Deva%20Reddy&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Upcoming%20AI%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,50:1B4B7A,100:61DAFB&height=200&section=header&text=Hi%20👋,%20I'm%20Deva%20Harshini%20Reddy&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=500&lines=Learning+Python+%26+DSA;Exploring+AI+%2F+ML" alt="Typing SVG" />
 
@@ -13,7 +13,13 @@
 
 ## 🌌 About Me
 
-I'm Deva Reddy, an aspiring AI engineer currently learning Python, DSA, and exploring the world of AI and generative AI. Open to internship opportunities to learn and grow.
+```typescript
+const devaHarshiniReddy = {
+  currentlyLearning: ["Python", "Data Structures & Algorithms", "AI Tools", "Generative AI"],
+  status: "Building foundations in Python, DSA, and Generative AI 🌱",
+  openTo: "Internship opportunities — eager to learn what things do and how they work",
+};
+```
 
 <br/>
 
