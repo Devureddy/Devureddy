@@ -1,5 +1,4 @@
-[README-4.md](https://github.com/user-attachments/files/30074364/README-4.md)
-<div align="center">
+[README-5.md](https://github.com/user-attachments/files/30074392/README-5.md)[Uploading<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,50:1B4B7A,100:61DAFB&height=200&section=header&text=Hi%20👋,%20I'm%20Deva%20Harshini%20Reddy&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%"/>
 
@@ -35,9 +34,11 @@ const devaHarshiniReddy = {
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devureddy&show_icons=true&theme=tokyonight&title_color=61dafb&text_color=89ddff&bg_color=0d1117&icon_color=61dafb&border_color=61dafb" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devureddy&layout=compact&theme=tokyonight&title_color=61dafb&text_color=89ddff&bg_color=0d1117&border_color=61dafb" />
 </div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,50:1B4B7A,100:61DAFB&height=120&section=footer" width="100%"/>
 
+ README-5.md…]()
