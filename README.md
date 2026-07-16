@@ -1,9 +1,10 @@
-[README.md](https://github.com/user-attachments/files/30074195/README.md)
+[README-2.md](https://github.com/user-attachments/files/30074294/README-2.md)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FF69B4&height=200&section=header&text=Hi%20👋,%20I'm%20Devureddy&fontSize=45&fontColor=ffffff&animation=twinkling&desc=AI/ML%20Student%20@%20Cambridge%20Institute%20of%20Technology&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FF69B4&height=200&section=header&text=Hi%20👋,%20I'm%20Devureddy&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Upcoming%20AI%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=Learning+Python+%26+DSA;Exploring+AI+%2F+ML+Fundamentals;Diving+into+Generative+AI;Open+to+Internship+Opportunities+%F0%9F%8C%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=Future+AI+Engineer+in+the+Making;Learning+Python+%26+DSA;Exploring+AI+%2F+ML+%26+Generative+AI;Open+to+Internship+Opportunities+%F0%9F%8C%B8" alt="Typing SVG" />
 
 <br/>
 
@@ -22,35 +23,12 @@
 
 ```typescript
 const devureddy = {
-  title: "AI/ML Student",
-  institute: "Cambridge Institute of Technology",
-  year: "1st Year",
+  title: "Upcoming AI Engineer",
   currentlyLearning: ["Python", "Data Structures & Algorithms", "AI Tools", "Generative AI"],
-  launchedProjects: ["chatbot-python-"],
-  certifications: [],
   status: "Building foundations in Python, DSA, and Generative AI 🌱",
   openTo: "Internship opportunities — eager to learn what things do and how they work",
 };
 ```
-
-<br/>
-
-## 💗 Featured Projects
-
-### 🤖 chatbot-python-
-A Python-based chatbot project — one of my first steps into building AI-driven applications.
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-
-🔗 [Code](https://github.com/Devureddy/chatbot-python-)
-
-<div align="center">
-  <a href="https://github.com/Devureddy/chatbot-python-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devureddy&repo=chatbot-python-&theme=radical&title_color=ff69b4&text_color=ffc0cb&bg_color=1a1a1a&icon_color=ff69b4&border_color=ff69b4" />
-  </a>
-</div>
 
 <br/>
 
